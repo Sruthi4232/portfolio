@@ -98,9 +98,6 @@ nav ul a:hover {
     text-align: left;
     animation: fadeIn 2s ease-in-out;
 }
-
-
-/* Full-screen section styling */
 .full-screen-section {
     display: flex;
     flex-direction: column;
@@ -145,32 +142,7 @@ h3 {
     object-fit: cover;
 }
 
-.hello-text {
-    font-size: 5rem;
-    font-weight: bold;
-    color: rgb(97, 97, 233);
-    transition: transform 0.5s ease, color 0.5s ease;
-    margin: 0;
-    text-align: left;
-}
 
-.sruthi-text {
-    font-size: 4rem;
-    font-weight: bold;
-    color: pink;
-    transition: transform 0.5s ease, color 0.5s ease;
-    margin: 0;
-    text-align: left;
-}
-
-.education-text {
-    font-size: 2rem;
-    font-weight: bold;
-    color: cornsilk;
-    transition: transform 0.5s ease, color 0.5s ease;
-    margin: 0;
-    text-align: left;
-}
 
 #skills {
     background-color: rgb(21, 21, 21);
